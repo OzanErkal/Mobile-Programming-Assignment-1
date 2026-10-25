@@ -6,11 +6,14 @@
 
 
 ## Environment & Setup
-* **Flutter Version**: Flutter 3.47.6 (Channel user-branch)
-![App Screenshot](assets/screenshots/Screenshot 2026-10-25 204222.png)
-* **Dart Version**: 3.x
+**Flutter Version**: Flutter 3.47.6 (Channel user-branch)
 
 ### Run Commands
 ```bash
 flutter pub get
 flutter run
+
+## Application Screenshots
+
+
+###Checklist
